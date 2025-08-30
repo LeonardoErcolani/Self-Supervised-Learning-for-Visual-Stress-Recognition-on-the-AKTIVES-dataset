@@ -1,0 +1,36 @@
+# AKTIVES: Stress Detection Pipeline Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+numpy
+pandas
+scipy
+pillow
+tqdm
+
+# Deep learning
+torch
+torchvision
+tensorflow
+keras
+transformers
+
+# Computer vision
+opencv-python
+mediapipe
+
+# Machine learning
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Data processing
+openpyxl
+imageio
+
+# For GPU acceleration (optional):
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
